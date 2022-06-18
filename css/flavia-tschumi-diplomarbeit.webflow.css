@@ -6795,8 +6795,7 @@ figcaption {
 .gallery-lightbox {
   width: 100%;
   height: 100%;
-  cursor: -webkit-zoom-in;
-  cursor: zoom-in;
+  cursor: default;
 }
 
 .gallery-slide {
@@ -7801,6 +7800,8 @@ figcaption {
 .persona-grid-lightbox-link {
   width: 100%;
   height: 100%;
+  cursor: -webkit-zoom-in;
+  cursor: zoom-in;
 }
 
 .persona-image-wrapper {
@@ -7884,6 +7885,8 @@ figcaption {
   display: inline-block;
   width: 100%;
   margin-bottom: 2rem;
+  cursor: -webkit-zoom-in;
+  cursor: zoom-in;
 }
 
 .gallery8_image {
@@ -8826,11 +8829,6 @@ figcaption {
 
   .image-wrap {
     margin-bottom: 140px;
-  }
-
-  .content-section {
-    padding-top: 100px;
-    padding-bottom: 200px;
   }
 
   .members-image {
@@ -10411,10 +10409,6 @@ figcaption {
 
   .image-wrap {
     margin-bottom: 40px;
-  }
-
-  .content-section {
-    padding-top: 0px;
   }
 
   .members-image {
