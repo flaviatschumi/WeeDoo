@@ -5160,7 +5160,7 @@ figcaption {
 
 .section-einleitung {
   overflow: hidden;
-  height: 80vh;
+  height: 90vh;
   margin-top: 0px;
   padding-top: 74px;
   border-bottom-left-radius: 40px;
@@ -5173,7 +5173,7 @@ figcaption {
 
 .text-size-extra-large.text-different {
   font-family: Lora, sans-serif;
-  font-size: 4rem;
+  font-size: 3.8rem;
   line-height: 1.2;
 }
 
@@ -7914,10 +7914,6 @@ figcaption {
   column-count: 2;
   -webkit-column-gap: 2rem;
   column-gap: 2rem;
-}
-
-.prototype-section {
-  display: none;
 }
 
 .text-block-4ausnahme {
