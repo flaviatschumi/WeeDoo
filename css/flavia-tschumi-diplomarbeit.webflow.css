@@ -5580,10 +5580,7 @@ figcaption {
   font-weight: 400;
   letter-spacing: -0.02em;
   text-decoration: none;
-}
-
-.footer-link:hover {
-  color: #7e48ea;
+  cursor: default;
 }
 
 .footer-link-column {
